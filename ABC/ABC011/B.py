@@ -1,0 +1,2 @@
+# あ
+print(input().capitalize())

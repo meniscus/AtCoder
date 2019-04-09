@@ -1,9 +1,10 @@
 def decide_turn(card) :
 	return card.upper()
 
-A = list(input())
-B = list(input())
-C = list(input())
+# きたない。。。
+A = list(reversed(list(input())))
+B = list(reversed(list(input())))
+C = list(reversed(list(input())))
 
 turn = "A"
 while True:
